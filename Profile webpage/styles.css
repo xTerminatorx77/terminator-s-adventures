@@ -1,0 +1,188 @@
+/* body styling */
+body{
+    margin: 0%;
+    text-align: center;
+}
+
+/* paragraph-styling */
+p{
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* h1 h2 h3 styling */
+h1,h2,h3{
+    color: #66bfbf;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* top container styling  */
+.top-container{ 
+    position: relative;
+    padding-top: 100px;
+    color: #66bfbf;
+    font-size: 50px;
+    background-color: #eaf6f6;
+  
+    
+}
+/* i'm charan heading styling */
+.name{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    margin: 0%;
+
+}
+
+/* a programmer para styling */
+.prog-para{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0%;
+}
+
+/* skills div styling */
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+/* top-cloud styling */
+.cldimg{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    height: 60px;
+    width: 180px;
+}
+
+/* bottom cloud styling */
+.cldimg2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    height: 60px;
+    width: 180px;
+}
+
+/* mountain styling */
+.mountimg{
+    height: 400px;
+    width: 650px;
+}
+
+/* profile image styling */
+.profile-img {
+    padding-top: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+/* my skill heading styling */
+.myskill{
+    padding-top: 50px;
+    font-size: 2.5em;
+}
+
+/* skills image styling */
+.skills-img {
+    float: left;
+    height:120px;
+    width: 120px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 80px;
+}
+
+/* dot net image styling */
+.dotnet-img{
+    float: left;
+    height: 120px;
+    width: 120px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+/* design and dotnet para styling */
+.design-para,.net-para{
+    line-height: 2;
+}
+
+/* contact me button styling */
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 20px;
+} 
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+/* footer styling */
+.footer{
+    background-color: #66bfbf;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+/* footer links styling */
+.links{
+    background-color: #11999e;
+}
+
+/* horizantal 1st and 2nd styling */
+.firsthr{
+    margin-top: 90px;
+    border-top: 10px dotted #eaf6f6;
+    width: 5%;
+}
+.secondhr{
+    margin-bottom: 80px;
+    border-top: 10px dotted #eaf6f6;
+    width: 5%;
+}
+
+/* copyright statement styling */
+.copyright{
+    padding-top: 20px;
+    font-size: 10px;
+}
+
+/* all links styling */
+.link{
+    padding: 20px;
+}
+
+/* twitter and insta link styling */
+.twitter,.insta{
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+/* overall links styling */
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #11999e;
+}
+
